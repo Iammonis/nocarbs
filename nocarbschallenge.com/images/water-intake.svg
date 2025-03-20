@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="325px" height="199px" viewBox="0 0 325 199" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Path 7</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FF3464" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Keto_cycle9" transform="translate(-25.000000, -1843.000000)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <path d="M25,1865.90736 C44.8477386,1854.72334 64.4583288,1850.99534 83.8317706,1854.72334 C112.891933,1860.31535 118.014338,1872.2374 149.590645,1872.2374 C181.166952,1872.2374 186.052209,1845.06743 211.844467,1845.06743 C237.636725,1845.06743 250.874348,1872.2374 275.502207,1872.2374 C300.130067,1872.2374 318.916962,1849.2023 333.705535,1845.06743 C343.564583,1842.31086 348.996072,1842.31086 350,1845.06743 L350,2041.9611 L25,2041.9611 L25,1865.90736 Z" id="Path-7"></path>
+        </g>
+    </g>
+</svg>
